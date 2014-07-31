@@ -1,3 +1,10 @@
 {
-  "nl":"2.5"
+  "nl": {
+    "country": "Netherlands, the",
+    "price": 2.13
+  },
+  "de": {
+    "country": "Germany",
+    "price":  2.50
+  }
 }
