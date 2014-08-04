@@ -1,0 +1,22 @@
+nl:
+    country: "The Netherlands"
+    price: 2.13
+de:
+    country: "Germany"
+    price: 2.50
+uk:
+    country: "United Kingdom"
+    price: 3.45
+af:
+    country: "Afghanistan"
+    price: 1.38
+al:
+    country: "Albania"
+    price: 0.70
+dz:
+    country: "Algeria"
+    price: 1.04
+ad:
+    country: "Andorra"
+    price: 3.45
+
