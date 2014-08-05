@@ -1,9 +1,11 @@
+# Source: http://www.pintprice.com
+
 nl:
     country: "The Netherlands"
-    price: 2.13
+    price: 1.94
 de:
     country: "Germany"
-    price: 2.50
+    price: 2.58
 uk:
     country: "United Kingdom"
     price: 3.45
@@ -19,4 +21,6 @@ dz:
 ad:
     country: "Andorra"
     price: 3.45
-
+es:
+    country: "Spain"
+    price: 1.94
